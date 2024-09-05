@@ -6,6 +6,8 @@ This project focuses on detecting emotions (fear, anger, joy, and sadness) from 
 
 # Project Overview
 
+Below you can see a detailed overview of the project, all the code is located in the `notebook.ipynb` file.
+
 ## Data Collection:
 
 The dataset contains Reddit posts extracted via the reddit api and labeled with emotions: joy, anger, fear, and sadness.
